@@ -14,3 +14,4 @@ CLAUDE.md                 project rules the agent reads on every session
 Videos on the Agent Shipped channel that use this repo:
 
 - [My subagent stopped halfway. One missing path was why #Shorts](https://youtu.be/qoobDT2fCYE) · E007 · 2026-11-07
+- [My subagent hook read an empty field. Now a bad report exits 2 #Shorts](https://youtu.be/EfsRjxtHwpc) · E004 · 2026-11-14
